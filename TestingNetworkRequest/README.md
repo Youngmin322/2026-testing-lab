@@ -3,9 +3,9 @@ Author: Jaesung
 Research Idea: Test Design
 ---
 
-# Testing Network Request
+# Design reliable tests for networking request by using code decomposition and mocking `URLProtocol`
 
-| Research Idea | Test Design |
+| Item | Content |
 | --- | --- |
 | Research Idea | Test Design |
 | Essential Question | How can we test networking logic? |
