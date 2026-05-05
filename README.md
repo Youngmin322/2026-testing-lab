@@ -8,9 +8,9 @@ To apply for the Testing Lab, select the application link in the internal announ
 
 ## What will you do in the lab?
 
-Using your **Challenge Statement** as a starting point, you’ll work with [Jaesung](https://github.com/x-0o0) to shape your **Investigate** direction and define your **Challenge Response**.
+Using your **Challenge Statement** as a starting point, you’ll work with [Jaesung](https://github.com/x-0o0) to set up your **Investigate** direction for defining your **Challenge Response**.
 
-You’ll create a final outcome that can be shared on **this repository**, and spend the lab period carrying out your **Act** phase based on your Challenge Response.
+You’ll create a final deliverable that can be shared on **this repository** such as sources or discussions, and spend the lab period carrying out your **Act** phase based on your Challenge Response.
 
 | Phase | Duration |
 | --- | --- |
