@@ -15,7 +15,7 @@ You’ll create a final deliverable that can be shared on **this repository** su
 | Phase | Duration |
 | --- | --- |
 | 📚 Investigate | 2 days |
-| 🔬 Act | 7 days (weekdays only) |
+| 🔬 Act | 10+ days (weekdays only) |
 | 🎓 Epilogue | 1 day |
 
 ## Guiding Activities
